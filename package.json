@@ -1,0 +1,10 @@
+{
+  "name": "chainlink-feeds",
+  "version": "1.0.0",
+  "description": "Chainlink data feeds for GCP functions",
+  "main": "index.js",
+  "dependencies": {
+    "@chainlink/solana-sdk": "^0.2.2",
+    "@project-serum/anchor": "^0.25.0-beta.1"
+  }
+}
